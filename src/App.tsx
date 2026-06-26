@@ -1092,8 +1092,8 @@ END:VCALENDAR`;
           <section className="px-4">
             <div className="bg-brand-cream rounded-2xl border border-brand-gold/20 p-2 shadow-sm">
               <ScratchCard
-                dateStr="Saturday, Nov 28, 2026"
-                timeStr="Wedding ceremony starts 04:00 PM"
+                dateStr="Thursday, Sep 17, 2026"
+                timeStr="Wedding ceremony starts 09:30 AM"
                 venueName={activeSettings.venueName || "The Grand Palace Pavilion"}
                 venueAddress={activeSettings.venueAddress || ""}
               />
