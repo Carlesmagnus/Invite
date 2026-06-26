@@ -47,15 +47,15 @@ interface Database {
 const DB_FILE = path.join(process.cwd(), "database.json");
 
 const defaultSettings: WeddingSettings = {
-  brideName: "Meera",
-  groomName: "Aarav",
-  weddingDate: "2026-11-28T16:00:00", // November 28, 2026
+  brideName: "Keerthika",
+  groomName: "Arun Kumar",
+  weddingDate: "2026-09-17T09:30:00", // November 28, 2026
   venueName: "The Grand Palace Pavilion",
   venueAddress: "Regency Ballroom & Lawns, MG Road, Pune, Maharashtra 411001",
   mapLink: "https://maps.google.com/?q=The+Grand+Palace+Pavilion+Pune",
   musicUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", // stable default audio
   coupleImageUrl: "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800", // elegant couple silhouette
-  monogramText: "A & M"
+  monogramText: "A & K"
 };
 
 const defaultEvents: EventTimelineItem[] = [
