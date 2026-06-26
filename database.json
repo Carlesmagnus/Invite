@@ -6,22 +6,46 @@
     "venueName": "The Grand Palace Pavilion",
     "venueAddress": "Regency Ballroom & Lawns, MG Road, Pune, Maharashtra 411001",
     "mapLink": "https://maps.google.com/?q=The+Grand+Palace+Pavilion+Pune",
-    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "musicUrl": "https://www.mfiles.co.uk/mp3-downloads/pachelbel-canon-in-d.mp3",
     "coupleImageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800",
     "monogramText": "A & M"
   },
   "guests": [
     {
-      "token": "abcd1234",
-      "name": "Rahul & Family"
+      "id": "g1",
+      "name": "Rahul & Family",
+      "token": "rahul",
+      "status": "pending",
+      "rsvpGuests": 0,
+      "rsvpMessage": "",
+      "openCount": 0
     },
     {
-      "token": "pqrs5678",
-      "name": "Priya"
+      "id": "g2",
+      "name": "Priya & Partner",
+      "token": "priya",
+      "status": "pending",
+      "rsvpGuests": 0,
+      "rsvpMessage": "",
+      "openCount": 0
     },
     {
-      "token": "xyz98765",
-      "name": "Amit & Family"
+      "id": "g3",
+      "name": "Amit Sharma",
+      "token": "amit",
+      "status": "pending",
+      "rsvpGuests": 0,
+      "rsvpMessage": "",
+      "openCount": 0
+    },
+    {
+      "id": "g4",
+      "name": "Sneha Patel",
+      "token": "sneha",
+      "status": "pending",
+      "rsvpGuests": 0,
+      "rsvpMessage": "",
+      "openCount": 0
     }
   ],
   "events": [
