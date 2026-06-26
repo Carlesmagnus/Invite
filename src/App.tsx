@@ -909,20 +909,20 @@ END:VCALENDAR`;
 
   // Fallback default settings
   const defaultSettings: WeddingSettings = {
-    brideName: "Meera",
-    groomName: "Aarav",
-    weddingDate: "2026-11-28T16:00:00",
+    brideName: "Keerthika",
+    groomName: "Arun Kumar",
+    weddingDate: "2026-09-17T9.30:00:00",
     venueName: "The Grand Palace Pavilion",
     venueAddress: "Regency Ballroom & Lawns, MG Road, Pune, Maharashtra 411001",
     mapLink: "https://maps.google.com/?q=The+Grand+Palace+Pavilion+Pune",
     musicUrl: "https://www.mfiles.co.uk/mp3-downloads/pachelbel-canon-in-d.mp3",
     coupleImageUrl: "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800",
-    monogramText: "A & M"
+    monogramText: "A & K"
   };
 
   const activeSettings = settings || defaultSettings;
   const coupleName = `${activeSettings.brideName} & ${activeSettings.groomName}`;
-  const monogram = activeSettings.monogramText || "M & A";
+  const monogram = activeSettings.monogramText || "A & K";
 
   return (
     <div className="min-h-screen bg-brand-bg text-brand-text flex justify-center items-center font-sans antialiased relative selection:bg-brand-peach/35 overflow-x-hidden">
@@ -1361,8 +1361,8 @@ END:VCALENDAR`;
 
           {/* FOOTER */}
           <footer className="text-center py-6 border-t border-brand-gold/15 text-[10px] text-brand-text/50 space-y-2">
-            <p>Designed Specially for Aarav & Meera's Guests</p>
-            <p className="font-serif italic font-semibold text-brand-gold text-xs">With Love, Aarav & Meera</p>
+            <p>Designed Specially for Arun Kumae & Keerthika's Guests</p>
+            <p className="font-serif italic font-semibold text-brand-gold text-xs">With Love, Arun Kumar & Keerthika</p>
           </footer>
 
         </div>
