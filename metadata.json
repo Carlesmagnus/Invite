@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Wedding Invitation",
+  "description": "A premium, mobile-first interactive wedding invitation featuring custom RSVP, scratch-to-reveal details, live countdown, timeline, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

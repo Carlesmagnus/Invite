@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  
+  --color-brand-bg: #FCFAF5;
+  --color-brand-text: #4A3728;
+  --color-brand-accent: #B76E79;
+  --color-brand-gold: #D4AF37;
+  --color-brand-cream: #FAF6F0;
+  --color-brand-peach: #E5B1A1;
+}
+
+/* Custom elegant scrollbar styling */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(184, 148, 80, 0.3);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(184, 148, 80, 0.5);
+}
+

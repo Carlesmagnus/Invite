@@ -1,0 +1,71 @@
+{
+  "settings": {
+    "brideName": "Meera",
+    "groomName": "Aarav",
+    "weddingDate": "2026-11-28T16:00:00",
+    "venueName": "The Grand Palace Pavilion",
+    "venueAddress": "Regency Ballroom & Lawns, MG Road, Pune, Maharashtra 411001",
+    "mapLink": "https://maps.google.com/?q=The+Grand+Palace+Pavilion+Pune",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "coupleImageUrl": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=800",
+    "monogramText": "A & M"
+  },
+  "guests": [
+    {
+      "token": "abcd1234",
+      "name": "Rahul & Family"
+    },
+    {
+      "token": "pqrs5678",
+      "name": "Priya"
+    },
+    {
+      "token": "xyz98765",
+      "name": "Amit & Family"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Haldi Ceremony",
+      "date": "November 27, 2026",
+      "time": "10:00 AM",
+      "venue": "Palace Sunken Gardens",
+      "dressCode": "Traditional Yellow / Mustard Elegance",
+      "icon": "Sun"
+    },
+    {
+      "id": "2",
+      "title": "Sangeet & Cocktail",
+      "date": "November 27, 2026",
+      "time": "07:00 PM",
+      "venue": "Grand Ballroom",
+      "dressCode": "Glitz, Glamour & Indo-Western Sparkle",
+      "icon": "Sparkles"
+    },
+    {
+      "id": "3",
+      "title": "Wedding Ceremony (Phere)",
+      "date": "November 28, 2026",
+      "time": "04:00 PM",
+      "venue": "Royal Mandap lawns",
+      "dressCode": "Traditional Royal Attire (Pastels / Reds)",
+      "icon": "Heart"
+    },
+    {
+      "id": "4",
+      "title": "Reception Dinner",
+      "date": "November 28, 2026",
+      "time": "08:00 PM",
+      "venue": "The Palace Pavilion Grand Lawns",
+      "dressCode": "Formal Suits / Tuxedos & Evening Gowns",
+      "icon": "GlassWater"
+    }
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=600",
+    "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=600",
+    "https://images.unsplash.com/photo-1607190074257-dd4b7af0309f?auto=format&fit=crop&q=80&w=600",
+    "https://images.unsplash.com/photo-1519225495810-7512c696505a?auto=format&fit=crop&q=80&w=600"
+  ]
+}
